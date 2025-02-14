@@ -1,2 +1,8 @@
 # project1_face_recognition
-Basic machine learning projects in this repo
+
+Dataset Taken from https://www.kaggle.com/datasets/yveslr/open-famous-people-faces/data
+
+Face recognition among 258 famous people.
+
+
+
